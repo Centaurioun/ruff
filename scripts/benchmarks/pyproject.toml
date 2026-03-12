@@ -11,7 +11,7 @@ flake8 = "^6.0.0"
 pycodestyle = "^2.10.0"
 pyflakes = "^3.0.1"
 pylint = "^2.15.10"
-black = "^22.12.0"
+black = "^26.3.1"
 isort = "^5.11.4"
 flake8-2020 = { version = "*", optional = true }
 flake8-annotations = { version = "*", optional = true }
